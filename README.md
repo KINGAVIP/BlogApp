@@ -13,6 +13,7 @@ Blog App Application using MERN Stack
 10.Added CSS to beautify the web app
 
 Improvements to be made:-
+
 1.Proper and different files for the server for User and Blog . (Implemented complete backend in one file will improve it)
 2.Git Commit- Pushed complete code in one commit only as it was kinda first full project and took a lot of time and mistakes that's why will try to make commit
               for each task next time.
